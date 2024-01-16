@@ -325,7 +325,7 @@ CWD                             <==== Whatever the current working directory is.
 ## Contact
 The author of this project is Wu Ting-Hsuan.
 
-Contact me via [email](tinghsuan.th@gmail.com) or 
+Contact me via [email](mailto:tinghsuan.th@gmail.com) or 
 [GitHub](https://github.com/astrid2205/).
 
 ## Acknowledgements
